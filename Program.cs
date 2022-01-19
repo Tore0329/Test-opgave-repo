@@ -12,5 +12,11 @@ namespace ConsoleApp3
 
             //jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
         }
+
+        private string Tore()
+        {
+            string output = "Tore";
+            return output;
+        }
     }
 }
