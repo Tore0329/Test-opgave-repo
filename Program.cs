@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Helloolkol,kokd!");
 
-            //////////////tore
+            //////////////tore2222222222222222222
 
             //jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
         }
